@@ -8,3 +8,9 @@
 
 <Header />
 <Router {routes} />
+
+<style>
+	:global(body) {
+		padding: 0;
+	}
+</style>

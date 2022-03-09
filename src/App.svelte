@@ -7,10 +7,13 @@
 </script>
 
 <Header />
-<Router {routes} />
+<main>
+	<Router {routes} />
+</main>
 
 <style>
-	:global(body) {
-		padding: 0;
+	main {
+		display: flex;
+		justify-content: center;
 	}
 </style>

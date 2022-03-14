@@ -62,7 +62,7 @@
 
 <style lang="scss">
     h1 {
-        padding: 7rem 0 1rem;
+        padding: 0 0 1rem;
         font-size: 3rem;
     }
 
@@ -118,7 +118,6 @@
     }
 
     p {
-        padding: 1rem 0 1rem;
         font-size: 1.3rem;
         line-height: 2rem;
         text-align: center;

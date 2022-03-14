@@ -44,7 +44,7 @@
 
 <style lang="scss">
     h1 {
-        padding: 0.5rem 0 1rem;
+        padding: 4rem 0 1rem;
         font-size: 3rem;
     }
 
@@ -82,7 +82,10 @@
     }
 
     .input-box {
-        font-size: 5rem;
+        font-size: 3rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
     }
 
     .button-wrapper {

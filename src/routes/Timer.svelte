@@ -70,17 +70,6 @@
         border-bottom: 3px solid gray;
     }
 
-    h3 {
-        margin: 0.5rem 0;
-        font-size: 1.5rem;
-    }
-
-    form {
-        display: flex;
-        flex-direction: column;
-        gap: 1.5rem;
-    }
-
     ul {
         margin-top: 1rem;
         padding: 1rem;
@@ -127,6 +116,17 @@
         font-size: 4rem;
         font-weight: bold;
         color: #2a5535;
+    }
+
+    a {
+ 		text-decoration: none;
+  		color: rgb(45, 94, 75);
+  		font-weight: bold;
+	}
+
+    strong {
+        font-weight: bold;
+        font-size: 1.4rem;
     }
 
     .task-block {

@@ -124,6 +124,17 @@
         text-align: center;
     }
 
+    a {
+ 		text-decoration: none;
+  		color: rgb(45, 94, 75);
+  		font-weight: bold;
+	}
+
+    strong {
+        font-weight: bold;
+        font-size: 1.4rem;
+    }
+
     div:last-child {
         margin-top: 1rem;
     }

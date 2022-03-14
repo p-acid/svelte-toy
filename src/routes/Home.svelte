@@ -23,7 +23,7 @@
 
 <style>
     h1 {
-        padding: 17rem 0 0;
+        padding: 14rem 0 0;
         font-size: 3rem;
     }
 

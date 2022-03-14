@@ -44,7 +44,7 @@
 
 <style lang="scss">
     h1 {
-        padding: 7rem 0 1rem;
+        padding: 0.5rem 0 1rem;
         font-size: 3rem;
     }
 
@@ -65,7 +65,6 @@
     }
 
     p {
-        margin: 1rem 0;
         font-size: 1.3rem;
         line-height: 2rem;
         text-align: center;

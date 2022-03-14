@@ -2,9 +2,17 @@
 	import Router from 'svelte-spa-router'
 	
 	import routes from './routes'
-
-	import Header from './components/Header.svelte';
 </script>
 
-<Header />
-<Router {routes} />
+<main>
+	<Router {routes} />
+</main>
+
+<style>
+	main {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+</style>
